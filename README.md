@@ -1,4 +1,4 @@
-# Reader
+# Interactive Reader
 
 An interactive reading tool for Brazilian Portuguese learners, demonstrated on Fernando Pessoa's *O Livro do Desassossego* (The Book of Disquiet).
 
@@ -9,7 +9,7 @@ The reader automatically identifies difficult words based on frequency analysis 
 - **English translation**: Full paragraph translation for context
 - **Clean Portuguese**: Original text without annotations
 
-Live demo: []
+Live demo: https://interactive-reader.streamlit.app
 
 ## How It Works
 
